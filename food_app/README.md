@@ -1,4 +1,4 @@
-# TastyGo (Flutter)
+# FOODAPP (Flutter)
 
 A 5-screen food-ordering demo UI built entirely with core Flutter layout
 widgets — no external UI packages (routing uses the `get` package).
