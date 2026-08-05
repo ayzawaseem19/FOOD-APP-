@@ -1,7 +1,7 @@
 # FOODAPP (Flutter)
 
 A 5-screen food-ordering demo UI built entirely with core Flutter layout
-widgets — no external UI packages (routing uses the `get` package).
+widgets no external UI packages (routing uses the `get` package).
 
 ## Pages
 1. **Login** (`lib/screens/login_page.dart`) — StatefulWidget, form validation
