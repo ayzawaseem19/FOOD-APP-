@@ -1,9 +1,5 @@
-/// All user-facing strings live here so the UI never hardcodes text
-/// directly. Call these as `AppStrings.welcomeBack` etc. from widgets.
-/// Grouped by page/section with a comment header for easy navigation.
 class AppStrings {
-  AppStrings._(); // prevent instantiation — this is a static-only class
-
+  AppStrings._(); 
   // ---- App ----
   static const appName = 'AWFOODS';
 
